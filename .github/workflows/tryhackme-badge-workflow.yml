@@ -1,1 +1,16 @@
+name: TryHackMe Badge
 
+on:
+  schedule:
+    - cron: '0 0 * * *' # tous les jours à minuit
+  workflow_dispatch: # permet de lancer manuellement
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update TryHackMe Badge
+        uses: phillipadsmith/tryhackme-badge-action@v1
+        with:
+          username: nicocorbeau
