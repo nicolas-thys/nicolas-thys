@@ -17,8 +17,6 @@
 
 # <img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="30" height="30" alt="TryHackMe"> TryHackMe Account:
 ![TryHackMe Badge](./assets/tryhackme-badge.png)
-![TryHackMe Badge](https://tryhackme-badges.s3.eu-west-2.amazonaws.com/users/3623406.png)
-
 
 
 # 🚀 Projects:​
