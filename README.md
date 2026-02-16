@@ -17,6 +17,17 @@
 
 # <img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="30" height="30" alt="TryHackMe"> TryHackMe Account:
 
+# <img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="30" height="30" alt="TryHackMe"> TryHackMe
+
+![TryHackMe Stats](https://tryhackme-badges.s3.eu-west-2.amazonaws.com/users/TonUsername.svg)
+
+### My THM Achievements:
+![THM Points](https://img.shields.io/badge/Points-12345-red?style=for-the-badge&logo=tryhackme&logoColor=white)
+![THM Rank](https://img.shields.io/badge/Rank-5678-blue?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Rooms Completed](https://img.shields.io/badge/Rooms-42-green?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+
 ![tryhackme stats](https://raw.githubusercontent.com/nicocorbeau/nicocorbeau/master/assets/thm_propic.png)
+
 
 # 🚀 Projects:​
