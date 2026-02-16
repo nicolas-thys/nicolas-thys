@@ -17,12 +17,7 @@
 
 # <img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="30" height="30" alt="TryHackMe"> TryHackMe Account:
 
-# <img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="30" height="30" alt="TryHackMe"> TryHackMe
-
 ![TryHackMe Stats](https://tryhackme-badges.s3.eu-west-2.amazonaws.com/users/TonUsername.svg)
-
-
-![tryhackme stats](https://raw.githubusercontent.com/nicocorbeau/nicocorbeau/master/assets/thm_propic.png)
 
 
 # 🚀 Projects:​
