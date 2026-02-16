@@ -17,6 +17,7 @@
 
 # <img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="30" height="30" alt="TryHackMe"> TryHackMe Account:
 ![Static Badge]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3623406" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme-badges.vercel.app/user/3623406)
 
 
 # 🚀 Projects:​
