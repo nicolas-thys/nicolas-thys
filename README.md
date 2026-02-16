@@ -13,6 +13,6 @@
 ![Henallux](https://img.shields.io/badge/Henallux-white?style=for-the-badge&logo=Henallux&logoColor=black&color=blue)
 
 # 🔧​ Tools:
-![Static Badge](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kalilinux&logoColor=white&color=cyan)
+![Static Badge](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kalilinux&logoColor=white&color=blue)
 
 # 🚀 Projects:​
