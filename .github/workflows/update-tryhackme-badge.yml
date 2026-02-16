@@ -1,7 +1,24 @@
-- name: Fetch TryHackMe Badge
-  uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
-  with:
-    image_path: './assets/tryhackme-badge.png'
-    username: 'nicocorbeau'
-    user_id: '3623406'
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+name: Update TryHackMe Badge
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch TryHackMe Badge
+        uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
+        with:
+          image_path: './assets/tryhackme-badge.png'
+          username: 'nicocorbeau'
+          user_id: '3623406'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
