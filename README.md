@@ -4,11 +4,11 @@
 
 # 💻 Techical Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&color=black)
+![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&color=orange)
 
 # 🎓 Formation:
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-white?style=for-the-badge&logo=TryHackMe&logoColor=white&color=red)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-white?style=for-the-badge&logo=HackTheBox&logoColor=green&color=black)
-![Henallux](https://img.shields.io/badge/Henallux-white?style=for-the-badge&logo=Henallux&logoColor=black&color=orange)
+![Henallux](https://img.shields.io/badge/Henallux-white?style=for-the-badge&logo=Henallux&logoColor=black&color=blue)
 
 # 🚀 Projects:​
