@@ -16,8 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kalilinux&logoColor=white&color=blue)
 
 # <img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="30" height="30" alt="TryHackMe"> TryHackMe Account:
-![TryHackMe Stats](https://raw.githubusercontent.com/nicocorbeau/github-profile/master/assets/thm_propic.png)
-
+![Static Badge]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3623406" style='border:none;'></iframe>
 
 
 # 🚀 Projects:​
