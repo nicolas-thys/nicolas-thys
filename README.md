@@ -19,7 +19,7 @@
 [![TryHackMe Badge](./assets/tryhackme-badge.png)](https://tryhackme.com/p/nicocorbeau)
 
 # 🚀 Projects:​
-<p align="center">
+<p align="right">
   <a href="https://github.com/nicolas-thys/THM-Rooms">
     <img src="https://img.shields.io/badge/My_TryHackMe_Rooms-blue?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms">
   </a>
