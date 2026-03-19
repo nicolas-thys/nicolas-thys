@@ -3,7 +3,10 @@
 
 
 # 💻 Techical Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=white&color=orange)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -12,7 +15,7 @@
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-white?style=for-the-badge&logo=HackTheBox&logoColor=green&color=black)
 ![Henallux](https://img.shields.io/badge/Henallux-white?style=for-the-badge&logo=Henallux&logoColor=black&color=blue)
 ![PicoCTF](https://img.shields.io/badge/PicoCTF-purple?style=for-the-badge&logo=PicoCTF&logoColor=white)
-![SecNumAcademy](https://img.shields.io/badge/SecNumAcademy-white?style=for-the-badge&logo=SecNumAcademy&logoColor=black&color=red)
+![SecNumAcademy](https://img.shields.io/badge/SecNumAcademy-white?style=for-the-badge&logo=SecNumAcademy&logoColor=red&color=red)
 
 
 # 🔧​ Tools:
