@@ -11,7 +11,7 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-white?style=for-the-badge&logo=TryHackMe&logoColor=white&color=red)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-white?style=for-the-badge&logo=HackTheBox&logoColor=green&color=black)
 ![Henallux](https://img.shields.io/badge/Henallux-white?style=for-the-badge&logo=Henallux&logoColor=black&color=blue)
-![PicoCTF](https://img.shields.io/badge/PicoCTF-white?style=for-the-badge&logo=PicoCTF&logoColor=black&color=blue)
+![PicoCTF](https://img.shields.io/badge/PicoCTF-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![SecNumAcademy](https://img.shields.io/badge/SecNumAcademy-white?style=for-the-badge&logo=SecNumAcademy&logoColor=black&color=blue)
 
 
