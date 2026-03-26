@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/My_TryHackMe_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="280" height="120">
   </a>
   <br>
-  <a href="https://github.com/nicolas-thys/THM-Rooms">
-    <img src="https://img.shields.io/badge/My_Own_Binairies-00BD94?style=for-the-badge&logo=Linux&logoColor=white&color=red" alt="THM Rooms" width="240" height="120">
+  <a href="https://github.com/nicolas-thys/My-own-binaries">
+    <img src="https://img.shields.io/badge/My_Own_Binaries-00BD94?style=for-the-badge&logo=Linux&logoColor=white&color=red" alt="THM Rooms" width="240" height="120">
   </a>
 </p>
