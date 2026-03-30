@@ -28,7 +28,7 @@
 # 🚀 Projects:​
 <p align="left">
   <a href="https://github.com/nicolas-thys/THM-Rooms">
-    <img src="https://img.shields.io/badge/My_TryHackMe_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="280" height="120">
+    <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="280" height="120">
   </a>
   <br>
   <a href="https://github.com/nicolas-thys/My-own-binaries">
