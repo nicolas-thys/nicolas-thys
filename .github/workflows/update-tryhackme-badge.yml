@@ -13,7 +13,8 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Fetch TryHackMe Badge
         uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
@@ -22,3 +23,11 @@ jobs:
           username: 'nicocorbeau'
           user_id: '3623406'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated badge
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/tryhackme-badge.png
+          git commit -m "Update TryHackMe badge" || echo "No changes"
+          git push
