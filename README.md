@@ -16,7 +16,7 @@
 ![Henallux](https://img.shields.io/badge/Henallux-white?style=for-the-badge&logo=Henallux&logoColor=black&color=blue)
 ![PicoCTF](https://img.shields.io/badge/PicoCTF-purple?style=for-the-badge&logo=PicoCTF&logoColor=white)
 ![SecNumAcademy](https://img.shields.io/badge/SecNumAcademy-ANSSI-red?style=for-the-badge&logo=googlescholar&logoColor=white)
-![RedHatAcademy](https://img.shields.io/badge/RedHatAcademy-Podman-red?style=for-the-badge&logo=googlescholar&logoColor=white)
+![RedHatAcademy](https://img.shields.io/badge/RedHat_Academy-Podman-red?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 
 # 🔧​ Tools:
