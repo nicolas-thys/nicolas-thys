@@ -25,8 +25,6 @@
 
 # 🚀 Projects:​
 
-# 🚀 Projects:​
-
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: 1px solid #0e1116; background-color: #0e1116; padding: 5px;">
