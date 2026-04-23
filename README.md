@@ -23,6 +23,8 @@
 ![Static Badge](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kalilinux&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/BurpSuite-Base-gray?style=for-the-badge&labelColor=orange)
 
+# 🚀 Projects
+
 <table>
   <tr>
     <td align="center">
