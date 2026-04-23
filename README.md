@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/nicolas-thys/THM-Rooms">
-        <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white">
+        <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=flat-square&logo=tryhackme&logoColor=white">
       </a>
     </td>
     <td width="20"></td>
