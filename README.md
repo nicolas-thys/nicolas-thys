@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  <span style="display:inline-block; width:12px;"></span>
 
   <a href="https://github.com/nicolas-thys/My-own-binaries">
     <img src="https://img.shields.io/badge/My_Own_Binaries-FF0000?style=for-the-badge&logo=linux&logoColor=white">
