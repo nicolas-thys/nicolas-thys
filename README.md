@@ -25,7 +25,9 @@
 
 # 🚀 Projects:​
 
-<div align="left">
-  <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="220" height="60">
-  <img src="https://img.shields.io/badge/My_Own_Binaries-00BD94?style=for-the-badge&logo=Linux&logoColor=white&color=red" alt="Binaries" width="200" height="60">
-</div>
+<table border="0">
+  <tr>
+    <td style="border: none;"><img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="220" height="60"></td>
+    <td style="border: none;"><img src="https://img.shields.io/badge/My_Own_Binaries-00BD94?style=for-the-badge&logo=Linux&logoColor=white&color=red" alt="Binaries" width="200" height="60"></td>
+  </tr>
+</table>
