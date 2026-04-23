@@ -25,28 +25,35 @@
 
 <h1>🚀 Projects</h1>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/nicolas-thys/THM-Rooms" style="
-        display:inline-block;
-        padding:12px 20px;
-        background:#00BD94;
-        color:white;
-        font-weight:bold;
-        border-radius:8px;
-        text-decoration:none;
-        font-size:16px;
-        margin-right:10px;
-      ">
-        🔐 THM / HTB Rooms
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://github.com/nicolas-thys/My-own-binaries">
-        <img src="https://img.shields.io/badge/My_Own_Binaries-FF0000?style=for-the-badge&logo=linux&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display:flex; gap:16px; flex-wrap:wrap;">
+
+  <a href="https://github.com/nicolas-thys/THM-Rooms" style="
+    display:inline-block;
+    padding:14px 22px;
+    background: linear-gradient(135deg, #00bd94, #007a63);
+    color:white;
+    font-weight:600;
+    font-size:15px;
+    border-radius:10px;
+    text-decoration:none;
+    box-shadow:0 4px 10px rgba(0,0,0,0.25);
+    transition: transform 0.2s ease;
+  ">
+    🔐 THM / HTB Rooms
+  </a>
+
+  <a href="https://github.com/nicolas-thys/My-own-binaries" style="
+    display:inline-block;
+    padding:14px 22px;
+    background: linear-gradient(135deg, #ff3b3b, #b30000);
+    color:white;
+    font-weight:600;
+    font-size:15px;
+    border-radius:10px;
+    text-decoration:none;
+    box-shadow:0 4px 10px rgba(0,0,0,0.25);
+  ">
+    🧪 My Own Binaries
+  </a>
+
+</div>
