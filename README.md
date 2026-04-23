@@ -24,7 +24,4 @@
 ![Static Badge](https://img.shields.io/badge/BurpSuite-Base-gray?style=for-the-badge&labelColor=orange)
 
 # 🚀 Projects:​
-<p align="left">
-  <a href="https://github.com/nicolas-thys/THM-Rooms"> <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="220" height="60"></a>
-  <a href="https://github.com/nicolas-thys/My-own-binaries"> <img src="https://img.shields.io/badge/My_Own_Binaries-00BD94?style=for-the-badge&logo=Linux&logoColor=white&color=red" alt="THM Rooms" width="200" height="60"> </a> 
-</p>
+<img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="220" height="60"> <img src="https://img.shields.io/badge/My_Own_Binaries-00BD94?style=for-the-badge&logo=Linux&logoColor=white&color=red" alt="THM Rooms" width="200" height="60">
