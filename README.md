@@ -23,10 +23,6 @@
 ![Static Badge](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kalilinux&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/BurpSuite-Base-gray?style=for-the-badge&labelColor=orange)
 
-
-//# <span><img src="https://cdn.simpleicons.org/tryhackme/FF0000" width="30"> TryHackMe Account:</span>
-//[![TryHackMe Badge](./assets/tryhackme-badge.png)](https://tryhackme.com/p/nicocorbeau)
-
 # 🚀 Projects:​
 <p align="left">
   <a href="https://github.com/nicolas-thys/THM-Rooms">
