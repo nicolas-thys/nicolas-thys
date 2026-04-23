@@ -25,13 +25,19 @@
 
 # 🚀 Projects:​
 
+# 🚀 Projects:​
+
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: 1px solid #0e1116; background-color: #0e1116; padding: 5px;">
-      <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="300" height="60">
+      <a href="https://github.com/nicolas-thys/THM-HTB-Rooms">
+        <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="300" height="60">
+      </a>
     </td>
     <td style="border: 1px solid #0e1116; background-color: #0e1116; padding: 5px;">
-      <img src="https://img.shields.io/badge/My_Own_Binaries-00BD94?style=for-the-badge&logo=Linux&logoColor=white&color=red" alt="Binaries" width="280" height="60">
+      <a href="https://github.com/nicolas-thys/My-own-binaries">
+        <img src="https://img.shields.io/badge/My_Own_Binaries-00BD94?style=for-the-badge&logo=Linux&logoColor=white&color=red" alt="Binaries" width="280" height="60">
+      </a>
     </td>
   </tr>
 </table>
