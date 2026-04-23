@@ -28,8 +28,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/nicolas-thys/THM-Rooms">
-        <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=flat-square&logo=tryhackme&logoColor=white">
+      <a href="https://github.com/nicolas-thys/THM-Rooms" style="
+        display:inline-block;
+        padding:12px 20px;
+        background:#00BD94;
+        color:white;
+        font-weight:bold;
+        border-radius:8px;
+        text-decoration:none;
+        font-size:16px;
+        margin-right:10px;
+      ">
+        🔐 THM / HTB Rooms
       </a>
     </td>
     <td width="20"></td>
