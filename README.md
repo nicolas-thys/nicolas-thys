@@ -23,12 +23,16 @@
 ![Static Badge](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kalilinux&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/BurpSuite-Base-gray?style=for-the-badge&labelColor=orange)
 
-# 🚀 Projects:​
-<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:center;">
+<h1>🚀 Projects</h1>
+
+<p align="left">
   <a href="https://github.com/nicolas-thys/THM-Rooms">
     <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white">
   </a>
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/nicolas-thys/My-own-binaries">
     <img src="https://img.shields.io/badge/My_Own_Binaries-FF0000?style=for-the-badge&logo=linux&logoColor=white">
   </a>
-</div>
+</p>
