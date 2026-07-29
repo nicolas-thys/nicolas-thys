@@ -44,12 +44,6 @@
   </tr>
 </table>
 
-## 🌐 Aethris.art
-
-[Aethris.art](https://aethris.art) is a web application that I developed and currently maintain.
-
-This project allowed me to gain practical experience in web development, database management, web hosting, deployment, and application maintenance.
-
 ## 🧩 TryHackMe Rooms
 
 I design cybersecurity rooms and challenges focused on practical learning and offensive security.
@@ -57,3 +51,9 @@ I design cybersecurity rooms and challenges focused on practical learning and of
 Some of these rooms are publicly accessible on TryHackMe. My Hack The Box room concepts were not officially published.
 
 You can find the related projects and resources in my [THM Rooms repository](https://github.com/nicolas-thys/THM-HTB-Rooms).
+
+## 🌐 Aethris.art
+
+[Aethris.art](https://aethris.art) is a web application that I developed and currently maintain.
+
+This project allowed me to gain practical experience in web development, database management, web hosting, deployment, and application maintenance.
