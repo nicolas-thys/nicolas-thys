@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎓​I am a cybersecurity student passionate about penetration testing and red teaming.<br>📝​I am constantly learning and practicing through TryHackMe, and I even design my own TryHackMe rooms to challenge others.
+🎓​ I am a cybersecurity student passionate about penetration testing, red teaming, and web security.<br>
+📝​ I am constantly learning and practicing through platforms such as TryHackMe and Hack The Box.<br>
+🧩​ I also design my own cybersecurity rooms and challenges, some of which are publicly accessible on TryHackMe.<br>
+🌐​ Alongside cybersecurity, I develop and maintain web applications, including Aethris.art.
 
 
 # 💻 Techical Stack:
@@ -39,3 +42,17 @@
     </td>
   </tr>
 </table>
+🌐 Aethris.art
+
+Aethris.art is a web application that I developed and currently maintain.
+
+This project allowed me to gain practical experience in web development, database management, web hosting, deployment, and application maintenance.
+
+
+🧩 TryHackMe Rooms
+
+I design cybersecurity rooms and challenges focused on practical learning and offensive security.
+
+Some of these rooms are publicly accessible on TryHackMe. My Hack The Box room concepts were not officially published.
+
+You can find the related projects and resources in my THM Rooms repository.
