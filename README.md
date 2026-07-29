@@ -29,9 +29,12 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: 1px solid #0e1116; background-color: #0e1116; padding: 5px;">
-      <a href="https://github.com/nicolas-thys/TryHackMe Rooms">
-        <img src="https://img.shields.io/badge/My_THM/HTB_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Rooms" width="300" height="60">
-      </a>
+      <a href="https://github.com/nicolas-thys/THM-HTB-Rooms">
+  <img src="https://img.shields.io/badge/My_TryHackMe_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white"
+       alt="My TryHackMe Rooms"
+       width="300"
+       height="60">
+</a>
     </td>
     <td style="border: 1px solid #0e1116; background-color: #0e1116; padding: 5px;">
       <a href="https://aethris.art">
