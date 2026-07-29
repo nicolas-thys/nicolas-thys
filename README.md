@@ -32,7 +32,7 @@
       <a href="https://github.com/nicolas-thys/THM-HTB-Rooms">
   <img src="https://img.shields.io/badge/My_TryHackMe_Rooms-00BD94?style=for-the-badge&logo=tryhackme&logoColor=white"
        alt="My TryHackMe Rooms"
-       width="300"
+       width="400"
        height="60">
 </a>
     </td>
