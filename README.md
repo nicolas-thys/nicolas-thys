@@ -35,7 +35,7 @@
     </td>
     <td style="border: 1px solid #0e1116; background-color: #0e1116; padding: 5px;">
       <a href="https://aethris.art">
-        <img src="https://img.shields.io/badge/My_Website-Aethris.art-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aethris.art website" width="400" height="60">
+        <img src="https://img.shields.io/badge/My_Website-Aethris.art-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Aethris.art website" width="440" height="60">
       </a>
     </td>
   </tr>
